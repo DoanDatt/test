@@ -1,0 +1,45 @@
+/*
+   New Perspectives on HTML
+   Tutorial 3
+   Case Problem 1
+
+   ICI Text and Color Styles
+   Author: Doan Cong Dat
+   Date:  17/12/2022
+
+   Filename:         c_styles.css
+   Supporting Files: none
+
+*/
+body{
+   background-color: black;
+   color: white;
+   font-family: Century Gothic, sans-serif;
+
+}
+header h1{
+   color: yellow;
+   font-family: 'Courier New', Courier;
+   font-size: 28px;
+   kerning: 20px;
+   text-align: center;
+}
+article h2{
+   font-size: 24px;
+   font-weight: normal;
+   kerning: 5px;
+}
+article{
+   text-align: justify;
+   
+}
+.keyword{
+   color: yellow;
+   font-weight: normal;
+}
+ footer {
+   text-align: center;
+   border-width: 0px;
+   
+ }
+
